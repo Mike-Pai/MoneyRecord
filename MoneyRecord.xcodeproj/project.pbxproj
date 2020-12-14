@@ -7,19 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		99512AA2257E0FCA00FDC370 /* SantenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99512AA1257E0FCA00FDC370 /* SantenceView.swift */; };
+		99512AA5257E10F800FDC370 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99512AA4257E10F800FDC370 /* TabView.swift */; };
 		99BF3B69254EE9390017B1B9 /* MoneyRecordApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BF3B68254EE9390017B1B9 /* MoneyRecordApp.swift */; };
 		99BF3B6B254EE9390017B1B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BF3B6A254EE9390017B1B9 /* ContentView.swift */; };
 		99BF3B6D254EE9390017B1B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99BF3B6C254EE9390017B1B9 /* Assets.xcassets */; };
 		99BF3B70254EE9390017B1B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99BF3B6F254EE9390017B1B9 /* Preview Assets.xcassets */; };
+		99E657072584C6AB009B038D /* SafarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99E657062584C6AB009B038D /* SafarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		99512AA1257E0FCA00FDC370 /* SantenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantenceView.swift; sourceTree = "<group>"; };
+		99512AA4257E10F800FDC370 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 		99BF3B65254EE9390017B1B9 /* MoneyRecord.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyRecord.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99BF3B68254EE9390017B1B9 /* MoneyRecordApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyRecordApp.swift; sourceTree = "<group>"; };
 		99BF3B6A254EE9390017B1B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		99BF3B6C254EE9390017B1B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99BF3B6F254EE9390017B1B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		99BF3B71254EE9390017B1B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99E657062584C6AB009B038D /* SafarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				99BF3B68254EE9390017B1B9 /* MoneyRecordApp.swift */,
 				99BF3B6A254EE9390017B1B9 /* ContentView.swift */,
+				99E657062584C6AB009B038D /* SafarView.swift */,
+				99512AA4257E10F800FDC370 /* TabView.swift */,
+				99512AA1257E0FCA00FDC370 /* SantenceView.swift */,
 				99BF3B6C254EE9390017B1B9 /* Assets.xcassets */,
 				99BF3B71254EE9390017B1B9 /* Info.plist */,
 				99BF3B6E254EE9390017B1B9 /* Preview Content */,
@@ -140,6 +149,9 @@
 			files = (
 				99BF3B6B254EE9390017B1B9 /* ContentView.swift in Sources */,
 				99BF3B69254EE9390017B1B9 /* MoneyRecordApp.swift in Sources */,
+				99E657072584C6AB009B038D /* SafarView.swift in Sources */,
+				99512AA5257E10F800FDC370 /* TabView.swift in Sources */,
+				99512AA2257E0FCA00FDC370 /* SantenceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -11,7 +11,7 @@ import SwiftUI
 struct MoneyRecordApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabShowView()
         }
     }
 }
